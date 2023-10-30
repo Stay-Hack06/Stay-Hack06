@@ -1,6 +1,6 @@
 - 👋 Hi huminoids, I’m @Stay-Hack06
 - 👀 I’m interested in Software Engineering
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning JavaScript, Python and C++
 - 💞️ I’m looking to collaborate on any project that will help me grow my skills
 - 📫 How to reach me staysha.l.hackmann@gmail.com
 
